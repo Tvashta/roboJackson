@@ -1,0 +1,41 @@
+Logging to runs/0/TQC_1
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 6.75     |
+|    ep_rew_mean     | 119      |
+| time/              |          |
+|    episodes        | 4        |
+|    fps             | 41       |
+|    time_elapsed    | 0        |
+|    total_timesteps | 27       |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 6        |
+|    ep_rew_mean     | 96.8     |
+| time/              |          |
+|    episodes        | 8        |
+|    fps             | 44       |
+|    time_elapsed    | 1        |
+|    total_timesteps | 48       |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 5.5      |
+|    ep_rew_mean     | 101      |
+| time/              |          |
+|    episodes        | 12       |
+|    fps             | 45       |
+|    time_elapsed    | 1        |
+|    total_timesteps | 66       |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 5.75     |
+|    ep_rew_mean     | 114      |
+| time/              |          |
+|    episodes        | 16       |
+|    fps             | 45       |
+|    time_elapsed    | 2        |
+|    total_timesteps | 92       |
+---------------------------------
