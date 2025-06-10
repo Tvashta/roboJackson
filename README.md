@@ -25,9 +25,7 @@ Trained on simple laptop one a single example video. Further training can improv
    1. Search [YoutubeDL]
    2. Filter for shorts and top 5
    3. Apply MediaPipe 2D pose estimation
-   4. Stability score = Joints missing pe
-   
-   r frame + Landmark jitter
+   4. Stability score = Joints missing per frame + Landmark jitter
    ![alt text](assets/jitter.png)
    5. Choose minimum stability score and download
 2. Motion capture 3d
