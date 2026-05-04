@@ -1,5 +1,4 @@
 # RoboJackson: An Imitation Learning Framework for Dance
-Contributors: Adithi Narayan and Priyanka Rose Vargheese
 
 ### Objective
 Given a real world YouTube shorts video demonstration -> Translate it to a robot dancing
